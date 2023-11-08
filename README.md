@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with [Educacion IT](csvdfvgbdfg)
 
-- 👨‍💻 All of my projects are available at [www.githubpages.com](www.githubpages.com)
+- 👨‍💻 All of my projects are available at [www.github.com](https://github.com/TurcoDev)
 
 - 💬 Ask me about **HTML, CSS, Javascript, Typescript, React, NodeJS, Express, MySQL, MongoDB**
 
