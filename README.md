@@ -3,11 +3,31 @@
 
 - 🌱 I’m currently learning **English, React**
 
-- 👨‍💻 All of my projects are available at [www.github.com](https://github.com/TurcoDev)
+- 👨‍💻 All of my projects are available at
+  <a href="https://github.com/TurcoDev"><img src="https://img.shields.io/badge/-TurcoDev-24292E?style=flat&logo=Github&logoColor=white"/></a>
+  <!---  [www.github.com](https://github.com/TurcoDev) -->
 
-- 💬 Ask me about **HTML, CSS, Javascript, Typescript, React, NodeJS, Express, MySQL, MongoDB**
+- 💬 Ask me about
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat-square&logo=gitlab)&nbsp;
+<!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=vsc&logoColor=007ACC)&nbsp; -->
 
-- 📫 How to reach me **lucas.o.salvatori@gmail.com**
+- 📫 How to reach me
+<a href="www.linkedin.com/in/lucas-salvatori"><img src="https://img.shields.io/badge/-Lucas%20Salvatori-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:lucas.o.salvatori@gmail.com"><img src="https://img.shields.io/badge/-lucas.o.salvatori@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!---  <a href="poner mi sitio web"><img src="https://img.shields.io/badge/-OffLine.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>--->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,3 +63,5 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
 </p>
+
+
